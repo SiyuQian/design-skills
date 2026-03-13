@@ -18,6 +18,7 @@
 | [08-常用设计术语速查](08-glossary.md) | 设计术语中英文对照 |
 | [09-推荐资源](09-resources.md) | 设计灵感、工具、学习资源 |
 | [10-快速参考](10-quick-reference.md) | 设计检查清单、Prompt 公式 |
+| [11-设计风格指南](11-design-styles.md) | 杂志、野兽派等 12 种设计风格 |
 
 ---
 
@@ -27,8 +28,9 @@
 
 1. **新手** → 从 [01-设计基础概念](01-fundamentals.md) 开始
 2. **想直接写 Prompt** → 跳到 [07-AI Prompt 设计技巧](07-ai-prompts.md)
-3. **需要查术语** → 查看 [08-常用设计术语速查](08-glossary.md)
-4. **设计前检查** → 使用 [10-快速参考](10-quick-reference.md) 的清单
+3. **想了解设计风格** → 查看 [11-设计风格指南](11-design-styles.md)
+4. **需要查术语** → 查看 [08-常用设计术语速查](08-glossary.md)
+5. **设计前检查** → 使用 [10-快速参考](10-quick-reference.md) 的清单
 
 ---
 
@@ -45,7 +47,7 @@
 ### 场景 1：写 AI 设计 Prompt 前
 ```
 1. 明确你的目标用户 → 查看 01-fundamentals.md
-2. 确定设计风格 → 查看 07-ai-prompts.md 的风格词汇
+2. 确定设计风格 → 查看 11-design-styles.md
 3. 选择配色方案 → 查看 05-color-typography.md
 4. 使用 Prompt 模板 → 复制 07-ai-prompts.md 的模板
 ```
