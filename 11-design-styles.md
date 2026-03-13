@@ -35,6 +35,12 @@
 "干净利落的排版"
 ```
 
+**参考网站**：
+- [Apple](https://www.apple.com) — 产品页面是极简主义的典范
+- [Linear](https://linear.app) — SaaS 产品的现代简约风格
+- [Notion](https://www.notion.so) — 简洁的功能性设计
+- [Dropbox](https://www.dropbox.com) — 大量留白，内容为王
+
 ---
 
 ### 2. 杂志/编辑风格 (Magazine/Editorial)
@@ -68,6 +74,12 @@
 "图文混排"
 "强烈的视觉层次"
 ```
+
+**参考网站**：
+- [The New York Times](https://www.nytimes.com) — 经典的新闻编辑风格
+- [Vogue](https://www.vogue.com) — 时尚杂志的数字化呈现
+- [Medium](https://medium.com) — 博客平台的编辑风格
+- [Kinfolk](https://www.kinfolk.com) — 生活方式杂志的优雅排版
 
 ---
 
@@ -105,6 +117,12 @@
 "荧光色强调"
 ```
 
+**参考网站**：
+- [Bloomberg](https://www.bloomberg.com) — 数据密集的粗野主义风格
+- [Dezeen](https://www.dezeen.com) — 建筑网站的大胆排版
+- [Awwwards - Brutalism](https://www.awwwards.com/websites/?text=brutalist) — 野兽派网站合集
+- [Gumroad](https://gumroad.com) — 简洁直接的粗野主义元素
+
 ---
 
 ### 4. 玻璃拟态 (Glassmorphism)
@@ -136,6 +154,11 @@
 "微妙的白色边框"
 "层次感"
 ```
+
+**参考网站**：
+- [Apple macOS](https://www.apple.com/macos) — 控制中心的玻璃效果
+- [Microsoft Fluent Design](https://www.microsoft.com/design/fluent/) — 亚克力材质设计
+- [Dribbble - Glassmorphism](https://dribbble.com/search/glassmorphism) — 玻璃拟态设计合集
 
 ---
 
@@ -169,6 +192,10 @@
 "触感设计"
 ```
 
+**参考网站**：
+- [Dribbble - Neumorphism](https://dribbble.com/search/neumorphism) — 新拟态设计合集
+- [CodePen - Soft UI](https://codepen.io/search/pens?q=neumorphism) — 代码实现示例
+
 ---
 
 ### 6. 暗黑模式 (Dark Mode)
@@ -200,6 +227,12 @@
 "夜间模式"
 ```
 
+**参考网站**：
+- [GitHub](https://github.com) — 经典的暗黑模式实现
+- [Vercel](https://vercel.com) — 优雅的深色主题
+- [Linear](https://linear.app) — 专业工具的暗黑模式
+- [Discord](https://discord.com) — 游戏社区的深色界面
+
 ---
 
 ### 7. 复古/怀旧风格 (Retro/Vintage)
@@ -224,6 +257,12 @@
 "复古配色"
 "纹理背景"
 ```
+
+**参考网站**：
+- [Poolside FM](https://poolside.fm) — 80年代复古音乐播放器
+- [Neocities](https://neocities.org) — 90年代网页风格的现代演绎
+- [Internet Archive](https://archive.org) — 复古的图书馆感设计
+- [The Outline](https://theoutline.com) — 独特的复古编辑风格（已关闭，但可参考存档）
 
 ---
 
@@ -250,6 +289,11 @@
 "网格装饰"
 "青色洋红紫色"
 ```
+
+**参考网站**：
+- [Cyberpunk 2077](https://www.cyberpunk.net) — 游戏官网的赛博朋克美学
+- [Devil May Cry 5](https://www.devilmaycry5.com) — 游戏网站的大胆视觉
+- [Awwwards - Cyberpunk](https://www.awwwards.com/websites/?text=cyberpunk) — 赛博朋克风格网站合集
 
 ---
 
@@ -278,6 +322,12 @@
 "植物元素"
 ```
 
+**参考网站**：
+- [Patagonia](https://www.patagonia.com) — 环保品牌的自然风格
+- [Aesop](https://www.aesop.com) — 护肤品牌的有机美学
+- [Allbirds](https://www.allbirds.com) — 可持续鞋品牌的自然风格
+- [Oatly](https://www.oatly.com) — 植物奶品牌的活泼自然风
+
 ---
 
 ### 10. 瑞士/国际主义风格 (Swiss/International Style)
@@ -303,6 +353,12 @@
 "不对称布局"
 "功能性设计"
 ```
+
+**参考网站**：
+- [Swiss Style Design](https://swiss-style-design.com) — 瑞士风格展示网站
+- [Helvetica Film](https://www.hustwit.com/helvetica) — 关于 Helvetica 的纪录片网站
+- [MoMA](https://www.moma.org) — 现代艺术博物馆的经典排版
+- [Tate](https://www.tate.org.uk) — 美术馆的瑞士风格设计
 
 ---
 
@@ -330,6 +386,11 @@
 "活泼有趣"
 ```
 
+**参考网站**：
+- [Spotify Wrapped](https://www.spotify.com/wrapped) — 每年的孟菲斯风格设计
+- [Dribbble - Memphis](https://dribbble.com/search/memphis) — 孟菲斯风格设计合集
+- [Camper](https://www.camper.com) — 鞋品牌的活泼孟菲斯元素
+
 ---
 
 ### 12. 日式极简 (Japanese Minimalism)
@@ -356,6 +417,12 @@
 "手写风格"
 "禅意设计"
 ```
+
+**参考网站**：
+- [Muji](https://www.muji.com) — 无印良品的极简美学
+- [Uniqlo](https://www.uniqlo.com) — 优衣库的日式简洁
+- [Nendo](https://www.nendo.jp) — 日本设计工作室的极简作品
+- [Issey Miyake](https://www.isseymiyake.com) — 三宅一生的品牌网站
 
 ---
 
