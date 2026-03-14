@@ -118,10 +118,10 @@
 ```
 
 **参考网站**：
-- [Bloomberg](https://www.bloomberg.com) — 数据密集的粗野主义风格
-- [Dezeen](https://www.dezeen.com) — 建筑网站的大胆排版
+- [Brutalist Websites](https://brutalistwebsites.com) — 野兽派网站合集
+- [Craigslist](https://craigslist.org) — 经典的粗野主义，原始未加工
+- [Drudge Report](https://drudgereport.com) — 打破常规的排版
 - [Awwwards - Brutalism](https://www.awwwards.com/websites/?text=brutalist) — 野兽派网站合集
-- [Gumroad](https://gumroad.com) — 简洁直接的粗野主义元素
 
 ---
 
@@ -156,8 +156,9 @@
 ```
 
 **参考网站**：
+- [Apple Vision Pro](https://www.apple.com/apple-vision-pro/) — 大量使用玻璃拟态效果
 - [Apple macOS](https://www.apple.com/macos) — 控制中心的玻璃效果
-- [Microsoft Fluent Design](https://www.microsoft.com/design/fluent/) — 亚克力材质设计
+- [Microsoft Fluent Design](https://www.microsoft.com/design/fluent/) — 亚克力材质设计语言
 - [Dribbble - Glassmorphism](https://dribbble.com/search/glassmorphism) — 玻璃拟态设计合集
 
 ---
@@ -262,7 +263,7 @@
 - [Poolside FM](https://poolside.fm) — 80年代复古音乐播放器
 - [Neocities](https://neocities.org) — 90年代网页风格的现代演绎
 - [Internet Archive](https://archive.org) — 复古的图书馆感设计
-- [The Outline](https://theoutline.com) — 独特的复古编辑风格（已关闭，但可参考存档）
+- [Neal.fun](https://neal.fun) — 复古游戏风格，像素元素
 
 ---
 
@@ -356,9 +357,9 @@
 
 **参考网站**：
 - [Swiss Style Design](https://swiss-style-design.com) — 瑞士风格展示网站
-- [Helvetica Film](https://www.hustwit.com/helvetica) — 关于 Helvetica 的纪录片网站
 - [MoMA](https://www.moma.org) — 现代艺术博物馆的经典排版
 - [Tate](https://www.tate.org.uk) — 美术馆的瑞士风格设计
+- [Helvetica Film](https://www.hustwit.com/helvetica) — 关于 Helvetica 字体的纪录片
 
 ---
 
@@ -497,8 +498,9 @@
 
 **参考网站**：
 - [Apple AirPods Pro](https://www.apple.com/airpods-pro/) — 滚动 3D 效果
+- [Spline](https://spline.design) — 3D 设计工具，本身就是 3D 展示
+- [Rive](https://rive.app) — 动画工具，使用 3D 元素
 - [Stripe](https://stripe.com) — 3D 图标和插图
-- [Pitch](https://pitch.com) — 3D 元素展示
 
 ---
 
@@ -534,9 +536,9 @@
 ```
 
 **参考网站**：
-- [Notion](https://www.notion.so) — 手绘风格插图
+- [Duolingo](https://www.duolingo.com) — 强烈的角色驱动设计
 - [Mailchimp](https://mailchimp.com) —  Freddie 吉祥物
-- [Slack](https://slack.com) — 多彩插画风格
+- [Headspace](https://www.headspace.com) — 插画冥想应用
 - [Shopify](https://www.shopify.com) — 商业场景插画
 
 ---
